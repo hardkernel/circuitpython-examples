@@ -1,8 +1,7 @@
 # === Adafruit ===
-Adafruit-Blinka>=8.24.0
-Adafruit-PlatformDetect>=3.53.0
+Adafruit-PlatformDetect>=3.58.0
+Adafruit-Blinka>=8.30.0
 Adafruit-PureIO>=1.1.11
-adafruit-circuitpython-typing>=1.9.5
 
 # === Jetson ===
 # Jetson.GPIO; platform_machine=='aarch64'
