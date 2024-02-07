@@ -3,6 +3,7 @@
 
 import board
 import digitalio
+import time
 
 PIN = board.D35
 
