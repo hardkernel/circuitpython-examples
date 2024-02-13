@@ -1,6 +1,6 @@
 # === Adafruit ===
 Adafruit-PlatformDetect>=3.58.0
-Adafruit-Blinka>=8.30.0
+Adafruit-Blinka>=8.32.0
 Adafruit-PureIO>=1.1.11
 
 # === Adafruit add-on ===
